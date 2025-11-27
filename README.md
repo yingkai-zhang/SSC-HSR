@@ -71,7 +71,7 @@ The ICVL dataset [here](https://icvl.cs.bgu.ac.il/pages/researches/hyperspectral
 
 ## Training
 
-### 1. Traning for Two-Stage Image Alignment Module
+### 1. Training for Two-Stage Image Alignment Module
 
 Follow the work [MPI-Flow](https://github.com/Sharpiless/MPI-Flow), we use the synthetic code for a target view, which has an accurate optical flow with the source view. The accurate optical flow with paired HSIs can be used for training optical flow model [RAFT](https://github.com/princeton-vl/RAFT). 
 
@@ -84,7 +84,7 @@ Follow the work [MPI-Flow](https://github.com/Sharpiless/MPI-Flow), we use the s
   <img src="images/pipeline_train.png" width="800px" />
 </div>
 
-### 2. Traning for Whole Framework
+### 2. Training for Whole Framework
 
 For example, train on real HSI fusion dataset at the scale factor of 8.
 
@@ -111,7 +111,9 @@ If you find our work useful for your research, please consider citing the follow
   title={Unaligned RGB Guided Hyperspectral Image Super-Resolution with Spatial-Spectral Concordance},
   author={Zhang, Yingkai and Lai, Zeqiang and Zhang, Tao and Fu, Ying and Zhou, Chenghu},
   journal={International Journal of Computer Vision},
-  pages={1--21},
+  volume={133},
+  number={9},
+  pages={6590--6610},
   year={2025},
   publisher={Springer}
 }
