@@ -12,14 +12,14 @@
   <h2 align="center">IJCV 2025</h2>
 
   <h3 align="center">
-    <a href="https://github.com/BITYKZhang/SSC-HSR/" target='_blank'><img src="https://img.shields.io/badge/🐳-Project%20Page-blue"></a>
+    <a href="https://github.com/yingkai-zhang/SSC-HSR/" target='_blank'><img src="https://img.shields.io/badge/🐳-Project%20Page-blue"></a>
     <a href="https://link.springer.com/article/10.1007/s11263-025-02466-8" target='_blank'><img src="https://img.shields.io/badge/Springer-s11263-green.svg"></a>
     <a href="https://arxiv.org/abs/2505.02109" target='_blank'><img src="https://img.shields.io/badge/arXiv-2505.02109-b31b1b.svg"></a>
   </h3>
 
 </p>
 
-This repository contains the official PyTorch implementation of "*Unaligned RGB Guided Hyperspectral Image Super-Resolution with Spatial-Spectral Concordance*" accepted at **IJCV 2025.**
+This repository contains the official PyTorch implementation of "*Unaligned RGB Guided Hyperspectral Image Super-Resolution with Spatial-Spectral Concordance*" accepted at **International Journal of Computer Vision (IJCV) 2025.**
 
 ## News :sparkles:
 
@@ -45,7 +45,7 @@ This repository contains the official PyTorch implementation of "*Unaligned RGB 
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/BITYKZhang/SSC-HSR.git
+git clone https://github.com/yingkai-zhang/SSC-HSR.git
 cd SSC-HSR
 ```
 
